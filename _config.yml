@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "lab-members/wenhua.png"
-  name             : "Wenhua Zhang"
+  avatar           : "lab-members/Lab-logo.png"
+  name             : "Prism Lab"
   pronouns         : # example: "she/her"  
   bio              : "School of Future Technology, Shanghai University"
   location         : "Shanghai, China"

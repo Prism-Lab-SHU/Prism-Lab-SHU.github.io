@@ -58,7 +58,7 @@ author_profile: true
   </div>
 
   <div class="member-card">
-    <img src="/images/lab-members/danhuang.png" alt="Jinchen Zhenghuang">
+    <img src="/images/lab-members/danhuang.jpg" alt="Jinchen Zhenghuang">
     <h3>Danhuang Huang</h3>
     <p>Masters Student</p>
     <p>Research: 3D reconstruction, Water reconstruction, Computer Graphics</p>
@@ -70,7 +70,7 @@ author_profile: true
 
 <div class="member-container">
   <div class="member-card">
-    <img src="/images/lab-members/qinqin.png" alt="Qinqin Lu">
+    <img src="/images/lab-members/qinqin.jpg" alt="Qinqin Lu">
     <h3>Qinqin Lu</h3>
     <p>Undergraduate Student</p>
     <p>Research: Medical Image Analysis, Computer Vision, Deep Learning, Motion Monitoring for Elderly</p>
@@ -78,7 +78,7 @@ author_profile: true
   </div>
   
   <div class="member-card">
-    <img src="/images/lab-members/chengling.png" alt="Chengling Ye">
+    <img src="/images/lab-members/chengling.jpg" alt="Chengling Ye">
     <h3>Chengling Ye</h3>
     <p>Undergraduate Student</p>
     <p>Research: Diffusion Model, Deep Learning, Virtual Reality, Computer Graphics</p>
