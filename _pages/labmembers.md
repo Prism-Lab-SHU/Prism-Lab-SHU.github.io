@@ -30,10 +30,10 @@ author_profile: true
 
 <div class="member-container">
   <div class="member-card">
-    <img src="/images/lab-memebers/wenhua.png" alt="Wenhua Zhang">
+    <img src="/images/lab-members/wenhua.png" alt="Wenhua Zhang">
     <h3>Wenhua Zhang</h3>
     <p>Principal Investigator</p>
-    <p>Research interests: ABC, XYZ</p>
+    <p>Research interests: Digital Pathology, AI-assisted Diagnosis, Virtual Reality</p>
     <p><a href="mailto:wenhua-zhang@shu.edu.cn">Email</a> | <a href="https://twitter.com/handle">Twitter</a></p>
   </div>
 </div>
