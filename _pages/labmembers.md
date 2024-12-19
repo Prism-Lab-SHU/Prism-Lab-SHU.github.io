@@ -14,13 +14,13 @@ author_profile: true
 }
 
 .member-card {
-    width: 300px;
+    width: 250px;
     margin-bottom: 20px;
 }
 
 .member-card img {
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
     object-fit: cover;
     /* border-radius: 50%;   This makes the image circular */
 }
