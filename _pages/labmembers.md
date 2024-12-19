@@ -22,7 +22,7 @@ author_profile: true
     width: 200px;
     height: 200px;
     object-fit: cover;
-    border-radius: 50%;  /* This makes the image circular */
+    /* border-radius: 50%;   This makes the image circular */
 }
 </style>
 
