@@ -14,13 +14,13 @@ author_profile: true
 }
 
 .member-card {
-    width: 250px;
+    width: 320px;
     margin-bottom: 20px;
 }
 
 .member-card img {
-    width: 180px;
-    height: 180px;
+    width: 200px;
+    height: 200px;
     object-fit: cover;
     border-radius: 50%;   /* This makes the image circular */
 }
@@ -53,7 +53,7 @@ author_profile: true
     <img src="/images/lab-members/zhangjie.png" alt="Zhangjie Yang">
     <h3>Zhangjie Yang</h3>
     <p>Masters Student</p>
-    <p>Research: Contollable Diffusion Model, Fundus Image Analysis, Medical Image Analysis, Computer Vision</p>
+    <p>Research: Controllable Diffusion Model, Fundus Image Analysis, Medical Image Analysis, Computer Vision</p>
     <p><a href="mailto:student@university.edu">Email</a></p>
   </div>
 
