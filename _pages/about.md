@@ -20,10 +20,10 @@ keywords:
 
 # <span style="color: #F44336;"> News!!
 <b>Dec. 2024</b>	Paper for CoNIC2022 finally got accepted by CSBJ! <br>
-<b>Nov. 2024</b>	I was invited for a talk in the <b>MICS</b> Academic Salon (The 5th Yearly Event for Digital Pathology), my first talk! <br>
+<b>Nov. 2024</b>	I am invited for a talk in the <b>MICS</b> Academic Salon (The 5th Yearly Event for Digital Pathology), my first talk! <br>
 <b>Nov. 2024</b>	I teach a course on "Pattern Recognition" for the first time! <br>
 <b>Nov. 2024</b>	Welcome Qinqin and Chengling, my first two undergraduate students! <br>
-<b>Oct. 2024</b>	I was granted the "Shanghai Natural Science Foundation", my very first grant! <br>
+<b>Oct. 2024</b>	I am granted the "Shanghai Natural Science Foundation", my very first grant! <br>
 <b>Sep. 2024</b>	Welcome Linwei, Zhangjie, and Danhuang, my first three graduate students!
 
 
