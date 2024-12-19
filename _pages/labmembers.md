@@ -34,7 +34,7 @@ author_profile: true
     <h3>Wenhua Zhang</h3>
     <p>Principal Investigator</p>
     <p>Research interests: Medical Image Analysis, Digital Pathology, Computer Vision, Virtual Reality</p>
-    <p><a href="mailto:wenhua-zhang@shu.edu.cn">Email</a> | <a href="https://twitter.com/handle">Twitter</a></p>
+    <p><a href="mailto:wenhua-zhang@shu.edu.cn">wenhua-zhang@shu.edu.cn</a> | <a href="https://twitter.com/handle">Twitter</a></p>
   </div>
 </div>
 
@@ -46,7 +46,7 @@ author_profile: true
     <h3>Linwei Li</h3>
     <p>Masters Student</p>
     <p>Research: Digital Pathology, AI-assisted Diagnosis, Segment-Anything Model, Medical Image Analysis, Computer Vision</p>
-    <p><a href="mailto:leelw1367@gmail.com">Email</a></p>
+    <p><a href="mailto:leelw1367@gmail.com">leelw1367@gmail.com</a></p>
   </div>
   
   <div class="member-card">
@@ -54,7 +54,7 @@ author_profile: true
     <h3>Zhangjie Yang</h3>
     <p>Masters Student</p>
     <p>Research: Fundus Image Analysis, Controllable Diffusion Model, Medical Image Analysis, Computer Vision</p>
-    <p><a href="mailto:yangjiang1213y.j@gmail.com">Email</a></p>
+    <p><a href="mailto:yangjiang1213y.j@gmail.com">yangjiang1213y.j@gmail.com</a></p>
   </div>
 
   <div class="member-card">
@@ -62,7 +62,7 @@ author_profile: true
     <h3>Danhuang Huang</h3>
     <p>Masters Student</p>
     <p>Research: 3D reconstruction, Water reconstruction, Computer Graphics</p>
-    <p><a href="mailto:zhenhuang123987@163.com">Email</a></p>
+    <p><a href="mailto:zhenhuang123987@163.com">zhenhuang123987@163.com</a></p>
   </div>
 </div>
 
@@ -74,7 +74,7 @@ author_profile: true
     <h3>Qinqin Lu</h3>
     <p>Undergraduate Student</p>
     <p>Research: Medical Image Analysis, Computer Vision, Deep Learning, Motion Monitoring for Elderly</p>
-    <p><a href="mailto:lqq923@shu.edu.cn">Email</a></p>
+    <p><a href="mailto:lqq923@shu.edu.cn">lqq923@shu.edu.cn</a></p>
   </div>
   
   <div class="member-card">
@@ -82,7 +82,7 @@ author_profile: true
     <h3>Chengling Ye</h3>
     <p>Undergraduate Student</p>
     <p>Research: Diffusion Model, Deep Learning, Virtual Reality, Computer Graphics</p>
-    <p><a href="mailto:student@university.edu">Email</a></p>
+    <p><a href="mailto:yecl@shu.edu.cn">yecl@shu.edu.cn</a></p>
   </div>
 
 </div>
