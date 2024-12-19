@@ -33,7 +33,7 @@ author_profile: true
     <img src="/images/lab-members/wenhua.png" alt="Wenhua Zhang">
     <h3>Wenhua Zhang</h3>
     <p>Principal Investigator</p>
-    <p>Research interests: Digital Pathology, AI-assisted Diagnosis, Virtual Reality</p>
+    <p>Research interests: Medical Image Analysis, Digital Pathology, Computer Vision, Virtual Reality</p>
     <p><a href="mailto:wenhua-zhang@shu.edu.cn">Email</a> | <a href="https://twitter.com/handle">Twitter</a></p>
   </div>
 </div>
@@ -53,7 +53,7 @@ author_profile: true
     <img src="/images/lab-members/zhangjie.png" alt="Zhangjie Yang">
     <h3>Zhangjie Yang</h3>
     <p>Masters Student</p>
-    <p>Research: Controllable Diffusion Model, Fundus Image Analysis, Medical Image Analysis, Computer Vision</p>
+    <p>Research: Fundus Image Analysis, Controllable Diffusion Model, Medical Image Analysis, Computer Vision</p>
     <p><a href="mailto:yangjiang1213y.j@gmail.com">Email</a></p>
   </div>
 
