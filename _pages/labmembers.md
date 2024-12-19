@@ -42,18 +42,47 @@ author_profile: true
 
 <div class="member-container">
   <div class="member-card">
-    <img src="/images/lab-members/student1.jpg" alt="Student Name">
-    <h3>Student Name</h3>
-    <p>PhD Student</p>
-    <p>Research: Brief description of their work</p>
+    <img src="/images/lab-members/linwei.png" alt="Linwei Li">
+    <h3>Linwei Li</h3>
+    <p>Masters Student</p>
+    <p>Research: Digital Pathology, AI-assisted Diagnosis, Segment-Anything Model, Medical Image Analysis, Computer Vision</p>
     <p><a href="mailto:student@university.edu">Email</a></p>
   </div>
   
   <div class="member-card">
-    <img src="/images/lab-members/student2.jpg" alt="Student Name">
-    <h3>Student Name</h3>
+    <img src="/images/lab-members/zhangjie.png" alt="Zhangjie Yang">
+    <h3>Zhangjie Yang</h3>
     <p>Masters Student</p>
-    <p>Research: Brief description of their work</p>
+    <p>Research: Contollable Diffusion Model, Fundus Image Analysis, Medical Image Analysis, Computer Vision</p>
     <p><a href="mailto:student@university.edu">Email</a></p>
   </div>
+
+  <div class="member-card">
+    <img src="/images/lab-members/danhuang.png" alt="Jinchen Zhenghuang">
+    <h3>Danhuang Huang</h3>
+    <p>Masters Student</p>
+    <p>Research: 3D reconstruction, Water reconstruction, Computer Graphics</p>
+    <p><a href="mailto:student@university.edu">Email</a></p>
+  </div>
+</div>
+
+## Undergraduate Students
+
+<div class="member-container">
+  <div class="member-card">
+    <img src="/images/lab-members/qinqin.png" alt="Qinqin Lu">
+    <h3>Qinqin Lu</h3>
+    <p>Undergraduate Student</p>
+    <p>Research: Medical Image Analysis, Computer Vision, Deep Learning, Motion Monitoring for Elderly</p>
+    <p><a href="mailto:student@university.edu">Email</a></p>
+  </div>
+  
+  <div class="member-card">
+    <img src="/images/lab-members/chengling.png" alt="Chengling Ye">
+    <h3>Chengling Ye</h3>
+    <p>Undergraduate Student</p>
+    <p>Research: Diffusion Model, Deep Learning, Virtual Reality, Computer Graphics</p>
+    <p><a href="mailto:student@university.edu">Email</a></p>
+  </div>
+
 </div>
