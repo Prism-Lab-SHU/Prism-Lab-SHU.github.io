@@ -22,7 +22,7 @@ author_profile: true
     width: 180px;
     height: 180px;
     object-fit: cover;
-    /* border-radius: 50%;   This makes the image circular */
+    border-radius: 50%;   /* This makes the image circular */
 }
 </style>
 
@@ -62,7 +62,7 @@ author_profile: true
     <h3>Danhuang Huang</h3>
     <p>Masters Student</p>
     <p>Research: 3D reconstruction, Water reconstruction, Computer Graphics</p>
-    <p><a href="mailto:student@university.edu">Email</a></p>
+    <p><a href="mailto:zhenhuang123987@163.com">Email</a></p>
   </div>
 </div>
 
