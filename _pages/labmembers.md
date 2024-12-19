@@ -46,7 +46,7 @@ author_profile: true
     <h3>Linwei Li</h3>
     <p>Masters Student</p>
     <p>Research: Digital Pathology, AI-assisted Diagnosis, Segment-Anything Model, Medical Image Analysis, Computer Vision</p>
-    <p><a href="mailto:student@university.edu">Email</a></p>
+    <p><a href="mailto:leelw1367@gmail.com">Email</a></p>
   </div>
   
   <div class="member-card">
@@ -54,7 +54,7 @@ author_profile: true
     <h3>Zhangjie Yang</h3>
     <p>Masters Student</p>
     <p>Research: Controllable Diffusion Model, Fundus Image Analysis, Medical Image Analysis, Computer Vision</p>
-    <p><a href="mailto:student@university.edu">Email</a></p>
+    <p><a href="mailto:yangjiang1213y.j@gmail.com">Email</a></p>
   </div>
 
   <div class="member-card">
@@ -74,7 +74,7 @@ author_profile: true
     <h3>Qinqin Lu</h3>
     <p>Undergraduate Student</p>
     <p>Research: Medical Image Analysis, Computer Vision, Deep Learning, Motion Monitoring for Elderly</p>
-    <p><a href="mailto:student@university.edu">Email</a></p>
+    <p><a href="mailto:lqq923@shu.edu.cn">Email</a></p>
   </div>
   
   <div class="member-card">
