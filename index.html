@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="PrismLab - Research Laboratory at SHU led by Prof. Wenhua Zhang">
+    <meta name="keywords" content="PrismLab, Wenhua Zhang, SHU, Shanghai University, Research Lab, Computer Vision, Medical Image Analysis">
+    <title>PrismLab - Home</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/gallery.css">
+    <link rel="icon" type="image/png" href="images/logo/favicon.png">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">PrismLab</div>
+        <ul class="nav-links">
+            <li><a href="index.html" class="active">Home</a></li>
+            <li><a href="leader.html">Lab Leader</a></li>
+            <li><a href="team.html">Our Team</a></li>
+            <li><a href="publications.html">Publications</a></li>
+            <li><a href="resources.html">Resources</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+        </ul>
+    </nav>
+
+    <header class="hero">
+        <div class="hero-content">
+            <div class="hero-text">
+                <h1>Welcome to PrismLab</h1>
+                <p>Advancing Research and Innovation at Shanghai University</p>
+                <h2>Join US for some 
+                    <span class="practical">Practical</span>, 
+                    <span class="robust">Robust</span>, 
+                    <span class="interesting">Interesting</span>, 
+                    <span class="scalable">Scalable</span> and 
+                    <span class="multidisciplinary">Multidisciplinary</span> Research!
+                </h2>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section class="gallery-section">
+            <h2>Featured Gallery</h2>
+            <div class="gallery-filter">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="projects">Projects</button>
+                <button class="filter-btn" data-filter="meetings">Group Meetings</button>
+                <button class="filter-btn" data-filter="papers">Publications</button>
+            </div>
+            <div class="gallery-grid">
+                <!-- Gallery items will be loaded here -->
+            </div>
+        </section>
+
+        <section class="news-section">
+            <h2>Latest News</h2>
+            <div class="news-container">
+                <!-- News Item Example 1 -->
+                <div class="news-item">
+                    <div class="news-date">April, 2025</div>
+                    <h3 class="news-title">Paper accepted by Energy!</h3>
+                    <p class="news-content">Our research on prediction the energy of human motion is accepted by Energy (SCI Q1, If=9.0)!.</p>
+                </div>
+
+                <div class="news-item">
+                    <div class="news-date">Dec, 2024</div>
+                    <h3 class="news-title">Paper for CoNIC2022 finally got accepted by CSBJ!</h3>
+                    <p class="news-content">Our research on medical image segmentation has been accepted at CVPR 2024, one of the top conferences in computer vision.</p>
+                </div>
+
+                <!-- News Item Example 2 -->
+                <div class="news-item">
+                    <div class="news-date">Nov, 2024</div>
+                    <h3 class="news-title">New Talk at MICS!</h3>
+                    <p class="news-content">I am invited for a talk in the MICS Academic Salon (The 5th Yearly Event for Digital Pathology), my first talk!.</p>
+                </div>
+
+                <!-- News Item Example 3 -->
+                <div class="news-item">
+                    <div class="news-date">Nov, 2024</div>
+                    <h3 class="news-title">New Course!</h3>
+                    <p class="news-content">I teach a course on “Pattern Recognition” for the first time!</p>
+                </div>
+
+                <div class="news-item">
+                    <div class="news-date">Nov, 2024</div>
+                    <h3 class="news-title">The very first undergraduate students!</h3>
+                    <p class="news-content">Welcome Qinqin and Chengling, my first two undergraduate students!</p>
+                </div>
+
+                <div class="news-item">
+                    <div class="news-date">Nov, 2024</div>
+                    <h3 class="news-title">First Grant</h3>
+                    <p class="news-content">I am granted the “Shanghai Natural Science Foundation”, my very first grant!</p>
+                </div>
+
+                <div class="news-item">
+                    <div class="news-date">Nov, 2024</div>
+                    <h3 class="news-title">The very first Graduate Students!</h3>
+                    <p class="news-content">Welcome Linwei, Zhangjie, and Danhuang, my first three graduate students!</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="contact-info">
+                <h3>Contact Us</h3>
+                <p>PrismLab</p>
+                <p>Shanghai University</p>
+                <p>Email: wenhua-zhang@shu.edu.cn</p>
+            </div>
+            <div class="quick-links">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="team.html">Join Our Team</a></li>
+                    <li><a href="resources.html">Resources</a></li>
+                    <li><a href="publications.html">Publications</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 PrismLab. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/gallery.js"></script>
+    <script src="js/main.js"></script>
+    <script>
+    // Load gallery items immediately
+    document.addEventListener('DOMContentLoaded', function() {
+        const galleryGrid = document.querySelector('.gallery-grid');
+        
+        // Sample gallery items (replace with your actual data loading)
+        const galleryItems = [
+            {
+                title: "Lab Life",
+                category: "meetings",
+                image: "images/fun-images/gallery/group-meetings/Sep-2024.jpg",
+                date: "2024-09"
+            },
+            {
+                title: "Lab Life",
+                category: "projects",
+                image: "images/fun-images/gallery/group-meetings/Dec-2024.png",
+                date: "2024-12"
+            },
+            {
+                title: "Lab Life",
+                category: "projects",
+                image: "images/fun-images/gallery/group-meetings/year-meeting.jpg",
+                date: "2024-12"
+            },
+            {
+                title: "Research Projects",
+                category: "projects",
+                image: "images/fun-images/gallery/group-meetings/VR-first-step.mp4",
+                date: "2024-12"
+            },
+        ];
+
+        // Render gallery items
+        galleryItems.forEach(item => {
+            const galleryItem = document.createElement('div');
+            galleryItem.className = `gallery-item ${item.category}`;
+            
+            // Check if item is video (mp4)
+            if (item.image.endsWith('.mp4')) {
+                galleryItem.innerHTML = `
+                    <video autoplay muted loop playsinline>
+                        <source src="${item.image}" type="video/mp4">
+                    </video>
+                    <div class="gallery-overlay">
+                        <h3>${item.title}</h3>
+                        <p>${formatDate(item.date)}</p>
+                    </div>
+                `;
+            } else {
+                galleryItem.innerHTML = `
+                    <img src="${item.image}" alt="${item.title}" loading="lazy">
+                    <div class="gallery-overlay">
+                        <h3>${item.title}</h3>
+                        <p>${formatDate(item.date)}</p>
+                    </div>
+                `;
+            }
+            galleryGrid.appendChild(galleryItem);
+        });
+
+        // Initialize filter buttons
+        const filterBtns = document.querySelectorAll('.filter-btn');
+        filterBtns.forEach(btn => {
+            btn.addEventListener('click', function() {
+                filterBtns.forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+                
+                const filter = this.dataset.filter;
+                document.querySelectorAll('.gallery-item').forEach(item => {
+                    item.style.display = (filter === 'all' || item.classList.contains(filter)) 
+                        ? 'block' 
+                        : 'none';
+                });
+            });
+        });
+
+        // Helper function to format date
+        function formatDate(dateString) {
+            const options = { year: 'numeric', month: 'short', day: 'numeric' };
+            return new Date(dateString).toLocaleDateString(undefined, options);
+        }
+    });
+    </script>
+</body>
+</html>

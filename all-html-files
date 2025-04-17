@@ -1,0 +1,8 @@
+<nav class="navbar">
+    <div class="logo">
+        <img src="images/logo/prismlab-logo.png" alt="PrismLab Logo">
+    </div>
+    <ul class="nav-links">
+        <!-- ... navigation links ... -->
+    </ul>
+</nav> 

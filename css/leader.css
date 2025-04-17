@@ -1,0 +1,257 @@
+.leader-profile {
+    padding-top: 80px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 80px 2rem 2rem;
+}
+
+.profile-header {
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    gap: 2rem;
+    margin-bottom: 3rem;
+}
+
+.profile-image {
+    width: 300px;  /* Adjust width as needed */
+    height: 400px; /* Make it taller while maintaining aspect ratio */
+    overflow: hidden;
+    border: 4px solid var(--secondary-color);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px; /* Optional: rectangular instead of circular */
+}
+
+.profile-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* This will maintain aspect ratio while filling container */
+}
+
+.profile-info h1 {
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+.profile-info .title {
+    font-size: 1.2rem;
+    color: var(--secondary-color);
+    margin-bottom: 0.5rem;
+}
+
+.profile-info .affiliation {
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+}
+
+.contact-details {
+    margin: 1.5rem 0;
+}
+
+.contact-details p {
+    margin: 0.5rem 0;
+    display: flex;
+    align-items: center;
+}
+
+.social-links {
+    margin-top: 1.5rem;
+}
+
+.social-links a {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    margin-right: 1rem;
+    background-color: var(--light-bg);
+    color: var(--primary-color);
+    text-decoration: none;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.social-links a:hover {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+section {
+    margin-bottom: 3rem;
+}
+
+section h2 {
+    color: var(--primary-color);
+    border-bottom: 2px solid var(--secondary-color);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.research-interests ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.research-interests li {
+    background-color: var(--light-bg);
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+}
+
+.bio-content {
+    line-height: 1.8;
+}
+
+.bio-content p {
+    margin-bottom: 1.5rem;
+}
+
+.journal-list,
+.research-list {
+    margin: 0.5rem 0 1rem 2rem;
+}
+
+.journal-list li,
+.research-list li {
+    margin-bottom: 0.5rem;
+}
+
+.call-to-action {
+    background-color: rgba(46, 134, 222, 0.15);
+    border: 2px solid var(--secondary-color);
+    padding: 1.2rem;
+    margin: 2rem 0;
+    font-size: 1.15em;
+    font-weight: 500;
+    line-height: 1.7;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.publication-list {
+    margin-bottom: 2rem;
+}
+
+.publication h3 {
+    color: var(--secondary-color);
+    margin-bottom: 1rem;
+}
+
+.publication li {
+    margin-bottom: 1.5rem;
+}
+
+.publication .authors {
+    font-style: italic;
+    margin: 0.3rem 0;
+}
+
+.publication .venue {
+    color: var(--secondary-color);
+}
+
+.view-all {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: var(--primary-color);
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.view-all:hover {
+    background-color: var(--secondary-color);
+}
+
+.service-category {
+    margin-bottom: 2rem;
+}
+
+.service-category h3 {
+    color: var(--secondary-color);
+    margin-bottom: 1rem;
+}
+
+.awards ul {
+    list-style: none;
+}
+
+.awards li {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.awards .year {
+    color: var(--secondary-color);
+    font-weight: bold;
+    min-width: 60px;
+}
+
+@media (max-width: 768px) {
+    .profile-header {
+        grid-template-columns: 1fr;
+    }
+
+    .profile-image {
+        max-width: 300px;
+        margin: 0 auto;
+    }
+}
+
+/* Publication styles update */
+.publication-item {
+    background-color: var(--light-bg);
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+    transition: transform 0.2s ease;
+}
+
+.publication-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.pub-title {
+    font-size: 1.2rem;
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+.publication-links {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.pub-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+}
+
+.pub-link.paper {
+    background-color: #e74c3c;
+    color: white;
+}
+
+.pub-link.code {
+    background-color: #2ecc71;
+    color: white;
+}
+
+.pub-link.project {
+    background-color: #3498db;
+    color: white;
+}
+
+.pub-link:hover {
+    transform: translateY(-2px);
+    opacity: 0.9;
+}

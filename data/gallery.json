@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Lab Life",
+        "category": "meetings",
+        "image": "images/fun-images/gallery/group-meetings/Sep-2024.jpg",
+        "date": "2024-06-01"
+    },
+    {
+        "id": 2,
+        "title": "Lab Life",
+        "category": "projects", 
+        "image": "images/fun-images/gallery/group-meetings/Dec-2024.jpg",
+        "date": "2024-05-15"
+    },
+    {
+        "id": 3,
+        "title": "Published Paper",
+        "category": "papers",
+        "image": "images/gallery/paper1.jpg",
+        "date": "2024-04-20"
+    }
+]
